@@ -8,7 +8,7 @@ HTML5, CSS3 e Javascript.
 Concluído ✅
 
 ## Acesso ao Projeto
-Acesso através do Github Pages.
+Acesso através do Github Pages: https://larafvitoriano.github.io/imersao-dev/.
 Visualização de código utilizando o CodePen.
 
 ## Desenvolvedora
